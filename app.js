@@ -17,5 +17,5 @@ app.use('/', routes)
 
 
 app.listen(PORT, (req, res) => {
-    console.log(`Server running on ${PORT}`);
+    console.log(`Server running on ${PORT} YAA`);
 })
